@@ -1,0 +1,1 @@
+<footer class="footer"> © 2022 MID Intelsysdata Jaya </footer>
